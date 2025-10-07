@@ -1,0 +1,1 @@
+# EDA_PROJECT_2_smart_city_citizen_activity
